@@ -11,4 +11,6 @@ It was also part of Introduction to Programming
 Nanodegree.
 
 You can access the created page;
-https://alpinistpanda.github.io/ud036_StarterCode/fresh_tomatoes.html
+https://alpinistpanda.github.io/ud036_StarterCode/index.html
+
+(Note: trailer function doesnot work here!!)
